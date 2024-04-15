@@ -1,2 +1,7 @@
-print("I'm hungry") # Adding a comment from GitHub Website 
-      
+hungry = input('Are you hungry ? ')
+if hungry == 'Yes':
+    print('Eat Samosa')
+    print('Eat Pizza')
+    print('Eat Burger')
+else:
+    print('Do your homework')      

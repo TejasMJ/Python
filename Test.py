@@ -1,5 +1,5 @@
 hungry = input('Are you hungry ? ')
-if hungry == 'Yes' or hungry == 'Yo':
+if hungry == 'Yes' or hungry == 'Y':
     print('Eat Samosa')
     print('Eat Pizza')
     print('Eat Burger')
@@ -16,5 +16,4 @@ else:
 
 
 
-#This is a commit. 
-# Add this comment for checking the head 
+#This is a commit   

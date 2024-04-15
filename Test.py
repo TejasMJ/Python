@@ -1,2 +1,2 @@
-print("I'm hungry") # Adding a comment frim GitHub Website 
+print("I'm hungry") # Adding a comment from GitHub Website 
       
